@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursos Laboratorio ingeniería del Software</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="css/normalize.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;700&display=swap" rel="stylesheet">
+    </head>
+<body>
+    <div class="pos-f-t">
+        <div class="collapse" id="navbarToggleExternalContent">
+          <div class="bg-dark p-4">
+            <h5 class="text-white h4">Cursos</h5>
+            <a href="#ultimos"><span class="text-muted">Últimos</span></a>
+            <a href="#valorados"><span class="text-muted">Valorados</span></a>
+            <a href="#autores"><span class="text-muted">Autores</span></a>
+          </div>
+        </div>
+        <nav class="navbar navbar-dark bg-dark">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <h4 class="navbar-brand">Laboratorio de ingeniería del software</h4>
+        </nav>
+    </div>
+    <main>
+    <header class="portada contenedor"></header>
+    <section class="contenedor seccion">
+      <div class="cualidad-sola">
+        <h3>LABORATORIO DE INGENIERÍA DEL SOFTWARE</h3>
+      </div>
+      <div class="cualidades">
+          <div class="cualidad-sola">
+            <i class="fas fa-video fa-3x"></i>
+              <h4>1.000 Videos</h4>
+          </div>
+          <div class="cualidad-sola">
+            <i class="fas fa-user-graduate fa-3x"></i>
+              <h4>1.000 Cursos</h4>
+          </div>
+          <div class="cualidad-sola">
+            <i class="fas fa-chalkboard-teacher fa-3x"></i>
+              <h4>50 Docentes</h4>
+          </div>
+      </div>
+  </section>
+  <section class="contenedor seccion">
+    <div id="ultimos">
+      <h3>Últimos cursos</h3>
+    </div>
+    <div id="valorados">
+      <h3>Cursos más valorados</h3>
+    </div>
+    <div id="autores">
+      <h3>Autores</h3>
+    </div>
+  </section>
+  <section class="contenedor seccion">
+    <button type="button" class="btn btn-dark buscar" onclick="cambiarPagina()">BUSCAR</button>
+  </section>
+  <footer class="contenedor footer bg-dark">
+    <h5 class="copyright"> &copy; Sergio García Vicente - 2021</h5>
+  </footer>
+  </main>
+  <script src="js/authenticate.js"></script>
+  <script src="js/ultimos.js"></script>
+  <script src="js/valorados.js"></script>
+  <script src="js/autores.js"></script>
+  <script src="js/scripts.js"></script>
+  <script src="https://kit.fontawesome.com/4d2e7a8ce9.js" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha384-LtrjvnR4Twt/qOuYxE721u19sVFLVSA4hf/rRt6PrZTmiPltdZcI7q7PXQBYTKyf" crossorigin="anonymous"></script>  
+</body>
+</html>

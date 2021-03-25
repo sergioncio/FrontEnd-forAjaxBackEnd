@@ -1,0 +1,57 @@
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.csprojAssemblyReference.cache
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\staticwebassets\RESTcursos.StaticWebAssets.Manifest.cache
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\staticwebassets\RESTcursos.StaticWebAssets.xml
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.MvcApplicationPartsAssemblyInfo.cache
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.AssemblyInfoInputs.cache
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.AssemblyInfo.cs
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.exe
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.deps.json
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.runtimeconfig.json
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.runtimeconfig.dev.json
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.dll
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.pdb
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\RESTcursos\RESTcursos\RESTcursos\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.RazorTargetAssemblyInfo.cache
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.csproj.CopyComplete
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.dll
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.pdb
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.csproj.CoreCompileInputs.cache
+C:\RESTcursos\RESTcursos\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.genruntimeconfig.cache
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.exe
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.deps.json
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.runtimeconfig.json
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.runtimeconfig.dev.json
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\RESTcursos.pdb
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.csprojAssemblyReference.cache
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.AssemblyInfoInputs.cache
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.AssemblyInfo.cs
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.csproj.CoreCompileInputs.cache
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.MvcApplicationPartsAssemblyInfo.cache
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\staticwebassets\RESTcursos.StaticWebAssets.Manifest.cache
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\staticwebassets\RESTcursos.StaticWebAssets.xml
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\scopedcss\bundle\RESTcursos.styles.css
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.RazorTargetAssemblyInfo.cache
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.csproj.CopyComplete
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.dll
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.pdb
+F:\Uni(cornio)\Cuarto año\Laboratorio de Ingeniería de Software\sergioncio\RESTcursos\obj\Debug\netcoreapp3.1\RESTcursos.genruntimeconfig.cache
